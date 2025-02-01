@@ -1,3 +1,5 @@
+// Documentation comments are made using copilot!
+
 const c = @cImport({
     @cInclude("SDL3/SDL.h");
 });
