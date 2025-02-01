@@ -44,7 +44,7 @@ Ensure you have Zig installed. You can download it from the [official Zig websit
 ## Running the Application
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/drawing-sdl3.git
+   git clone https://github.com/zerootoad/drawing-sdl3.git
    cd drawing-sdl3
    ```
 
